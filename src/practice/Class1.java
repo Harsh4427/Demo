@@ -17,4 +17,9 @@ public class Class1 {
    public void DeleteUser() {
 	   System.out.println("Click on send");
    }
+   
+   @Test
+   public void ForFUn() {
+	   System.out.println("for fun");
+   }
 }
